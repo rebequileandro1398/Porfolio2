@@ -1,7 +1,9 @@
 //abstracts
-@use './scss/abstracts/variables';
-@use './scss/abstracts/mixins';
+@import './scss/abstracts/variables';
+@import './scss/abstracts/mixins';
 
 //base
-@use './scss/base/base';
-@use './scss/base/resets';
+@import './scss/base/base';
+@import './scss/base/resets';
+//components
+@import './scss/components/nav'
