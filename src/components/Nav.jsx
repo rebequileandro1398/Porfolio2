@@ -19,9 +19,6 @@ export const Nav = () => {
       <a href="#contact">
         <RiMessage3Line className="icon-nav" />
       </a>
-      <a href="#footer">
-        <BsArrowDownCircle className="icon-nav" />
-      </a>
     </div>
   )
 }
