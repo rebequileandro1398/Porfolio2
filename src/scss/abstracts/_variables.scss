@@ -11,7 +11,6 @@ $TERTIARY-COLOR: #00acca;
 $CUATERNARY-COLOR: rgba(255, 255, 255, 0.87);
 $TRANSPARENT-COLOR: #5757573a;
 /*|---------------| BREAKPOINTS|---------------*/
-$BREAKPOINT-DESK: "only screen and (min-width: 1280px)";
-$BREAKPOINT-TABLET-LAND: "only screen and (min-width: 975px)";
-$BREAKPOINT-TABLET: "only screen and (min-width: 600px)";
-$BREAKPOINT-MOBILE-LAND: "only screen and (min-width: 480px)";
+$BREAKPOINT-DESK: 1024px;
+$BREAKPOINT-TABLET: 600px;
+$BREAKPOINT-MOBILE: 480px;
